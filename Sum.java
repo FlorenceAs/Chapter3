@@ -35,6 +35,8 @@ public class Sum{
 		System.out.println("enter third number:");
 		num3 = input.nextInt();
 
+		largest = 
+
 		System.out.printf("The largest number is = %d%n", largest);
 	}
 
